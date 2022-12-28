@@ -16303,6 +16303,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/emmanuelosnaya/Desktop/Proyecto-POO/Views/Home/Login.cshtml",
+      "TargetPath": "Views\\Home\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/emmanuelosnaya/Desktop/Proyecto-POO/Views/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -16318,8 +16323,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/emmanuelosnaya/Desktop/Proyecto-POO/Views/Home/Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FilePath": "/Users/emmanuelosnaya/Desktop/Proyecto-POO/Views/Home/Cotizaciones.cshtml",
+      "TargetPath": "Views\\Home\\Cotizaciones.cshtml",
       "FileKind": "mvc"
     },
     {

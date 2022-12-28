@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/emmanuelosnaya/Desktop/Proyecto-POO/Proyecto-POO/Proyecto-POO.csproj": {}
+    "/Users/emmanuelosnaya/Desktop/Proyecto-POO/Proyecto-POO.csproj": {}
   },
   "projects": {
-    "/Users/emmanuelosnaya/Desktop/Proyecto-POO/Proyecto-POO/Proyecto-POO.csproj": {
+    "/Users/emmanuelosnaya/Desktop/Proyecto-POO/Proyecto-POO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emmanuelosnaya/Desktop/Proyecto-POO/Proyecto-POO/Proyecto-POO.csproj",
+        "projectUniqueName": "/Users/emmanuelosnaya/Desktop/Proyecto-POO/Proyecto-POO.csproj",
         "projectName": "Proyecto-POO",
-        "projectPath": "/Users/emmanuelosnaya/Desktop/Proyecto-POO/Proyecto-POO/Proyecto-POO.csproj",
+        "projectPath": "/Users/emmanuelosnaya/Desktop/Proyecto-POO/Proyecto-POO.csproj",
         "packagesPath": "/Users/emmanuelosnaya/.nuget/packages/",
-        "outputPath": "/Users/emmanuelosnaya/Desktop/Proyecto-POO/Proyecto-POO/obj/",
+        "outputPath": "/Users/emmanuelosnaya/Desktop/Proyecto-POO/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/emmanuelosnaya/.nuget/NuGet/NuGet.Config"
