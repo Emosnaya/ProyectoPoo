@@ -7,4 +7,25 @@
     <RootNamespace>Proyecto_POO</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="EntityFramework" />
+    <None Remove="Microsoft.EntityFrameworkCore" />
+    <None Remove="MySql.Data" />
+    <None Remove="Datos\" />
+    <None Remove="Microsoft.EntityFrameworkCore.SqlServer" />
+    <None Remove="Microsoft.EntityFrameworkCore.Tools" />
+    <None Remove="Microsoft.AspNetCore.Razor" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.1">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.AspNetCore.Razor" Version="2.2.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Datos\" />
+  </ItemGroup>
 </Project>

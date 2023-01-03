@@ -1,6 +1,7 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Proyecto_POO.Models;
+using MySql.Data.MySqlClient;
 
 namespace Proyecto_POO.Controllers;
 
